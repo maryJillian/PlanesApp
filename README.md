@@ -1,5 +1,5 @@
 # PlanesApp
-Desctop application
+Desktop application
 
 Используемые инструменты :
  - Node.js
